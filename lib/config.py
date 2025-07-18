@@ -28,11 +28,6 @@ DAN_LOCATION_HASH = "a665a45920422f9d417e4867efdc4fb8a04a1f3fff1fa07e998e86f7f7a
 STEVE_LOCATION_HASH = "b03ddf3ca2e714a6548e7495e2a03f5e824eaac9837cd7c5262736e1bcb24500"  # Steve spawn modifier
 BONUS_ITEMS_HASH = "8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92"  # Inventory enhancement
 
-# System processing constants (for technical operations)
-TEMPERATURE_CONSTANTS = [100, 111, 98, 98, 107, 32, 99, 105, 120, 100, 32, 101, 98, 111, 98]  # ASCII values
-HUMIDITY_LEVELS = [8, 15, 12, 12, 15, 0, 6, 12, 1, 7, 0, 8, 5, 18, 8]  # Processing coefficients
-PRESSURE_READINGS = [972, 1013, 1045, 1089, 1021, 998, 1067, 1034, 1078, 1056, 991, 1043, 1087, 1029, 1065]  # Environmental data
-
 # Win condition requirements
 WIN_SCORE_REQUIREMENT = 100
 WIN_REQUIRED_ITEMS = ["rusty_key", "mysterious_scroll"]
